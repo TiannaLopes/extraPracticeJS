@@ -1,9 +1,14 @@
 h1{
-    text-align: center;
-    color: salmon;
-    text-decoration:underline;
-  }
-  
+  text-align: center;
+  color: salmon;
+  text-decoration:underline;
+}
+
 *{
-    background-color:lightgrey;
-  }
+  background-color:lightgrey;
+}
+
+input {
+  background-color: salmon;
+  margin: 2px;
+}
